@@ -22,6 +22,14 @@ Script focado em manipulação e contagem de dados utilizando pipelines (`|`) e 
 * **Exemplo de execução:** `./conta_arquivos.sh /etc`
 * **Comandos principais:** `ls`, `wc -l`, `$(...)`
 
+### Exercício Avaliativo: Listagem simples de ficheiros (`lista_arquivos.sh`)
+* **O que faz:** Recebe o caminho de um diretório e lista todos os ficheiros. Inclui a validação prévia para verificar se o diretório existe e devolve um erro elegante caso não exista.
+* **Exemplo de execução:** `./lista_arquivos.sh /home/aluno/documentos`
+
+### Exercício Avaliativo: Contador de ficheiros por extensão (`conta_extensao.sh`)
+* **O que faz:** Script de nível intermediário que recebe um diretório e uma extensão (ex: txt, sh). Verifica a existência do diretório e conta quantos ficheiros possuem a extensão informada utilizando comandos de texto nativos do Linux.
+* **Exemplo de execução:** `./conta_extensao.sh /documentos txt`
+
 ## 🚀 Como Executar
 
 1. Abra o seu terminal dentro desta pasta.
