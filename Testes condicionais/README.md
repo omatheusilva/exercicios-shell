@@ -1,4 +1,4 @@
-# 📂 Parte 5: Testes Condicionais
+# 📂 Testes Condicionais
 
 Este diretório contém a resolução dos exercícios da **Parte 5** da lista de práticas de Shell Script. O objetivo desta secção é praticar a utilização de estruturas condicionais (`if`, `else`) integradas com operadores de teste de sistema de ficheiros nativos do Linux.
 
