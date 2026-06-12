@@ -1,4 +1,4 @@
-# 📂 Parte 9: Exercício Integrador
+# 📂 Exercício Integrador
 
 Este diretório contém a resolução da última parte da lista de Shell Script, a **Parte 9 - Exercício Integrador**. O objetivo desta secção é unir todos os conceitos aprendidos ao longo da disciplina em scripts mais robustos, completos e com aplicabilidade real na administração de sistemas Linux.
 
