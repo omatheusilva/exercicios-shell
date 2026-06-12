@@ -1,26 +1,26 @@
 # Exercícios de Shell Script 🐧
 
-[cite_start]Este repositório contém a resolução de uma lista de exercícios de fixação focada em Shell Script[cite: 1]. [cite_start]As atividades fazem parte do conteúdo de Introdução a Shell Script da disciplina de Sistemas Operacionais / Linux, do Curso de Redes de Computadores / LabSO[cite: 4, 31]. 
+Este repositório contém a resolução de uma lista de exercícios de fixação focada em Shell Script[cite: 1]. [cite_start]As atividades fazem parte do conteúdo de Introdução a Shell Script da disciplina de Sistemas Operacionais / Linux, do Curso de Redes de Computadores / LabSO. 
 
-[cite_start]A entrega consiste nos arquivos `.sh` funcionando corretamente no terminal[cite: 4].
+A entrega consiste nos arquivos `.sh` funcionando corretamente no terminal[cite: 4].
 
 ## 🎯 Objetivos de Aprendizado
 
-[cite_start]Os scripts desenvolvidos neste repositório visam colocar em prática as seguintes habilidades[cite: 6]:
+Os scripts desenvolvidos neste repositório visam colocar em prática as seguintes habilidades:
 
-* [cite_start]Fixar a passagem de parâmetros em scripts Shell[cite: 7].
-* [cite_start]Utilizar comandos Linux dentro de scripts[cite: 8].
-* [cite_start]Criar e utilizar variáveis locais e variáveis de ambiente[cite: 9].
-* [cite_start]Aplicar testes condicionais com if, elif e else[cite: 10].
-* [cite_start]Utilizar operadores lógicos em verificações[cite: 11].
-* [cite_start]Construir repetições com o laço for[cite: 12].
-* [cite_start]Criar menus e decisões com a estrutura case[cite: 13].
+* Fixar a passagem de parâmetros em scripts Shell.
+* Utilizar comandos Linux dentro de scripts.
+* Criar e utilizar variáveis locais e variáveis de ambiente.
+* Aplicar testes condicionais com if, elif e else.
+* Utilizar operadores lógicos em verificações.
+* Construir repetições com o laço for.
+* Criar menus e decisões com a estrutura case.
 
 ## 🚀 Como Executar
 
-[cite_start]Para testar os scripts, é necessário utilizar o terminal do Linux. Siga os passos abaixo:
+Para testar os scripts, é necessário utilizar o terminal do Linux. Siga os passos abaixo:
 
-1. [cite_start]**Conceda permissão de execução** ao arquivo desejado usando o comando `chmod`[cite: 17]:
+1. **Conceda permissão de execução** ao arquivo desejado usando o comando `chmod`:
    ```bash
    chmod +x nome_do_script.sh
    ```
