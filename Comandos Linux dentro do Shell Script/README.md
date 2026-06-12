@@ -1,4 +1,4 @@
-# 📂 Parte 2: Comandos Linux dentro do Shell Script
+# 📂 Comandos Linux dentro do Shell Script
 
 Este diretório contém a resolução dos exercícios da **Parte 2** da lista de práticas de Shell Script. O objetivo desta seção é aprender a integrar e capturar a saída de comandos nativos do ecossistema Linux diretamente dentro de scripts automatizados.
 
