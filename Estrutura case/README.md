@@ -1,4 +1,4 @@
-# 📂 Parte 8: Estrutura case
+# 📂 Estrutura case
 
 Este diretório contém a resolução dos exercícios da **Parte 8** da lista de Shell Script. O objetivo principal desta seção é aprender a criar menus interativos e tomar decisões múltiplas utilizando a estrutura de controle `case`.
 
