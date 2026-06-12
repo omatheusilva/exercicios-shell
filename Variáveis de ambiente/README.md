@@ -1,4 +1,4 @@
-# 📂 Parte 4: Variáveis de Ambiente
+# 📂 Variáveis de Ambiente
 
 Este diretório contém a resolução dos exercícios da **Parte 4** da lista de práticas de Shell Script. O objetivo desta secção é compreender e aplicar as variáveis de ambiente integradas no sistema operativo Linux, permitindo criar scripts dinâmicos que se adaptam ao ambiente onde estão a ser executados.
 
