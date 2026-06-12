@@ -24,6 +24,10 @@ Este diretório contém a resolução dos exercícios da **Parte 7** da lista de
 * **Exemplo de execução:** `./verifica_executaveis.sh`.
 * **Comandos principais sugeridos:** `for`, `if`, `-x`.
 
+### Exercício Avaliativo: Tabuada com laço estilo C (`tabuada.sh`)
+* **O que faz:** Script de nível intermediário que recebe um número como argumento, valida a entrada e exibe a sua tabuada de 1 a 10. A iteração é feita obrigatoriamente através de um laço de repetição `for` no formato da linguagem C (`for ((i=1; i<=10; i++))`).
+* **Exemplo de execução:** `./tabuada.sh 7`
+
 ## 🚀 Como Executar
 
 1. Abre o terminal do Linux dentro desta pasta.
