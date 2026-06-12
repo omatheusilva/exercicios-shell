@@ -19,6 +19,11 @@ Este diretório contém a resolução dos exercícios da **Parte 5** da lista de
 * **Exemplo de execução:** `./verifica_execucao.sh script.sh`
 * **Comandos e conceitos principais:** `if`, `-x`
 
+### Verificador de número par ou ímpar (`par_impar.sh`)
+* **O que faz:** Script de nível básico que recebe um número inteiro como argumento, valida se o mesmo foi informado, e utiliza a operação matemática de módulo (`%`) para informar se o número é par ou ímpar.
+* **Exemplo de execução:** `./par_impar.sh 8`
+* **Conceitos abordados:** Operações matemáticas `$((...))`, testes condicionais (`if/else`).
+
 ## 🚀 Como Executar
 
 1. Abre o terminal do Linux dentro desta pasta.
