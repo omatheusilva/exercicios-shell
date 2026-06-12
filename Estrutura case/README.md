@@ -22,6 +22,11 @@ Script que atua como um classificador básico de arquivos baseado nas suas termi
 * **Exemplo de execução:** `./tipo_arquivo.sh arquivo.txt`
 * **Comandos principais:** `case`, `*.txt`, `*.png`, `*.sh`, `*.html`
 
+### Exercício Avaliativo: Gestor simples de utilizadores (`usuarios.sh`)
+* **O que faz:** Script que exibe um menu interativo com opções para listar utilizadores do sistema, verificar se um utilizador existe e mostrar o diretório *home* de um utilizador.
+* **Diferencial:** O menu está envolvido num ciclo de repetição contínuo, permanecendo no ecrã e executando operações até que o utilizador escolha explicitamente a opção "Sair" (Opção 4).
+* **Exemplo de execução:** `./usuarios.sh`
+
 ## 🚀 Como Executar
 
 1. Abra o terminal do Linux dentro desta pasta.
