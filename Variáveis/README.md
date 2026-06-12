@@ -1,4 +1,4 @@
-# 📂 Parte 3: Variáveis
+# 📂 Variáveis
 
 Este diretório contém a resolução dos exercícios da **Parte 3** da lista de práticas de Shell Script. O objetivo desta secção é aprender a declarar, atribuir e manipular variáveis locais, bem como realizar operações aritméticas simples.
 
