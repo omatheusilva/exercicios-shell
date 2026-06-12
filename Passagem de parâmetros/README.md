@@ -1,4 +1,4 @@
-# 📂 Parte 1: Passagem de Parâmetros
+# 📂 Passagem de Parâmetros
 
 Este diretório contém a resolução dos primeiros exercícios da lista de Shell Script. O objetivo desta secção é praticar como enviar informações (argumentos) pela linha de comandos e como capturá-las dentro do script.
 
